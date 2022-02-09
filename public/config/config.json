@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe869a7dad52e5c19db2c9741e4ca964233c00b54",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe869a7dad52e5c19db2c9741e4ca964233c00b54",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mark X",
+  "SYMBOL": "MX",
+  "MAX_SUPPLY": 20000,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/marksix",
+  "SHOW_BACKGROUND": true
+}
